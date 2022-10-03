@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license) -- https://opensource.org/licenses/MIT
-- [Video] (#video)
+- [Video](#Video)
 
 ## Installation
         - install inquirer through npm
