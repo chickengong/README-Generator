@@ -1,16 +1,18 @@
 # README generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-        - a high quality README with prompts you can answer
+        -  - A application that allows any user to use a high quality README file with prompts to answer automatically. 
+        - When you put a Github Username and Email Address, it will add to the entitled questions on where you can reach me with additional questions , and Github you are taken to my profile. 
+        - You will have a list of options for a licenssed applicaton, then you will get a badge for that license (explanations)
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Screenshot](#screenshot)
 - [License](#license) -- https://opensource.org/licenses/MIT
 - [Video](#Video)
 
 ## Installation
-        - install inquirer through npm
+        - Uses npm for the termainal 
 ## Usage
         - used through the terminal 
 ## Screenshot
@@ -40,3 +42,5 @@ https://user-images.githubusercontent.com/108504537/193695536-f9c03829-2a3d-46d1
 ## Questions
     - Please direct questions to ellefloyd88@gmail.com    
     - GitHub  https://www.github.com/chickengong 
+    
+# Respository link
