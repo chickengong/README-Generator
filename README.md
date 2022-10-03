@@ -4,7 +4,6 @@
 - A application that allows any user to use a high quality README file with prompts to answer automatically. 
 - When you put a Github Username and Email Address, it will add to the entitled questions on where you can reach me with additional questions , and Github you are taken to my profile. 
 - You will have a list of options for a licenssed applicaton, then you will get a badge for that license (explanations)
-- 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
